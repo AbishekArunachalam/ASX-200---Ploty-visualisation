@@ -11,4 +11,5 @@ ASX 200 stock prices, Jan 2017 - Jan 2019 [ASX historical data](https://www.asxh
 ### Prerequisites:
 
 Working knowledge of Python packages numpy and pandas.
+
 Python 3.6 and Anaconda installed.
